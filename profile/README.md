@@ -1,4 +1,4 @@
-![Netick Pic](https://i.ibb.co/C56h3dcT/Netick-Github-Main.png)
+<img width="1581" height="575" alt="NetickGithubMain2" src="https://github.com/user-attachments/assets/4ade3ba8-b2f5-4731-97b2-c12cf8daaba5" />
 
 <p align="center">
   <h3 align="center">High-Performance Networking Engine for Unity</h3>
